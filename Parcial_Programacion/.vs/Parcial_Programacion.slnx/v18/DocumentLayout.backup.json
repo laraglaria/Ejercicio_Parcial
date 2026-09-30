@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B43DBFF-E285-2334-8A77-09A4879ADD36}|AppConsola\\AppConsola.csproj|c:\\users\\larag\\desktop\\entregau9\\ejercicio_parcial\\parcial_programacion\\appconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B43DBFF-E285-2334-8A77-09A4879ADD36}|AppConsola\\AppConsola.csproj|solutionrelative:appconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\larag\\desktop\\entregau9\\ejercicio_parcial\\parcial_programacion\\accesodatos\\models\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\models\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\larag\\desktop\\entregau9\\ejercicio_parcial\\parcial_programacion\\accesodatos\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\larag\\desktop\\entregau9\\ejercicio_parcial\\parcial_programacion\\accesodatos\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\larag\\desktop\\entregau9\\ejercicio_parcial\\parcial_programacion\\accesodatos\\repositories\\cancionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositories\\cancionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\larag\\desktop\\entregau9\\ejercicio_parcial\\parcial_programacion\\accesodatos\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\larag\\desktop\\entregau9\\ejercicio_parcial\\parcial_programacion\\accesodatos\\migrations\\20260930222715_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\migrations\\20260930222715_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\larag\\desktop\\entregau9\\ejercicio_parcial\\parcial_programacion\\accesodatos\\data\\musicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\data\\musicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CancionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Repositories\\CancionRepository.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Repositories\\CancionRepository.cs",
+              "ToolTip": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Repositories\\CancionRepository.cs",
+              "RelativeToolTip": "AccesoDatos\\Repositories\\CancionRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:41:21.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260930222715_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Migrations\\20260930222715_Inicial.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Migrations\\20260930222715_Inicial.cs",
+              "ToolTip": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Migrations\\20260930222715_Inicial.cs",
+              "RelativeToolTip": "AccesoDatos\\Migrations\\20260930222715_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:27:15.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Data\\MusicaDbContext.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Data\\MusicaDbContext.cs",
+              "ToolTip": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Data\\MusicaDbContext.cs",
+              "RelativeToolTip": "AccesoDatos\\Data\\MusicaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:24:21.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cancion.cs",
+              "DocumentMoniker": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Models\\Cancion.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Models\\Cancion.cs",
+              "ToolTip": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Models\\Cancion.cs",
+              "RelativeToolTip": "AccesoDatos\\Models\\Cancion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:20:25.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Models\\Artista.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Models\\Artista.cs",
+              "ToolTip": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Models\\Artista.cs",
+              "RelativeToolTip": "AccesoDatos\\Models\\Artista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:19:18.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "AccesoDatos\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:06:49.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AccesoDatos\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "AccesoDatos\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:05:56.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AppConsola\\Program.cs",
+              "RelativeDocumentMoniker": "AppConsola\\Program.cs",
+              "ToolTip": "C:\\Users\\larag\\Desktop\\EntregaU9\\Ejercicio_Parcial\\Parcial_Programacion\\AppConsola\\Program.cs",
+              "RelativeToolTip": "AppConsola\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T15:54:47.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

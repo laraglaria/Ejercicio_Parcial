@@ -1,0 +1,14 @@
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\bin\Debug\net10.0\AccesoDatos.deps.json
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\bin\Debug\net10.0\AccesoDatos.dll
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\bin\Debug\net10.0\AccesoDatos.pdb
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.dll
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\obj\Debug\net10.0\refint\AccesoDatos.dll
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.pdb
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\obj\Debug\net10.0\ref\AccesoDatos.dll
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\bin\Debug\net10.0\AccesoDatos.runtimeconfig.json
+C:\Users\larag\Desktop\EntregaU9\Ejercicio_Parcial\Parcial_Programacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.genruntimeconfig.cache
